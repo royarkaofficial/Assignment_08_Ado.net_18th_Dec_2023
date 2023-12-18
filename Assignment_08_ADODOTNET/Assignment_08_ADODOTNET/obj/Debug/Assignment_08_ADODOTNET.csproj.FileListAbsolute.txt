@@ -1,0 +1,7 @@
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\bin\Debug\Assignment_08_ADODOTNET.exe.config
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\bin\Debug\Assignment_08_ADODOTNET.exe
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\bin\Debug\Assignment_08_ADODOTNET.pdb
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\obj\Debug\Assignment_08_ADODOTNET.csproj.AssemblyReference.cache
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\obj\Debug\Assignment_08_ADODOTNET.csproj.CoreCompileInputs.cache
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\obj\Debug\Assignment_08_ADODOTNET.exe
+D:\Phase 3\Day-8\Today Assignment\Assignment_08_ADODOTNET\Assignment_08_ADODOTNET\obj\Debug\Assignment_08_ADODOTNET.pdb
